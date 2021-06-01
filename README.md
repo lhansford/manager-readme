@@ -20,7 +20,7 @@ On the team level my role is to ensure we can provide the development expertise 
 
 ## What you can expect of me
 
-Follow through. When I ask what's blocking you in a 1 on 1, or when you tell me that you're lacking understanding of what we're working on, you can expect me to follow through on fixing or mitigating the situation. If I'm not fast in doing so I hope that you inquire with me about it. While I try not to let things slip between the cracks it can happen sometimes, but my main priority as an EM is to support you in your work, so do let me know when things aren't getting fixed fast enough.
+**Follow through.** When I ask what's blocking you in a 1 on 1, or when you tell me that you're lacking understanding of what we're working on, you can expect me to follow through on fixing or mitigating the situation. If I'm not fast in doing so I hope that you inquire with me about it. While I try not to let things slip between the cracks it can happen sometimes, but my main priority as an EM is to support you in your work, so do let me know when things aren't getting fixed fast enough.
 
 **Feedback & praise.** This is not an area I'm great with, as I tend to mentally note things and then forget to follow up on them. I'm actively trying to work on this though, so I will try my best to give you praise for you work, and actionable feedback when necessary. I'll need your help though - if you feel you need feedback on or praise for something please nudge me and I'll give it!
 
