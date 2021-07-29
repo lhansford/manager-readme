@@ -4,7 +4,7 @@
 
 Consider this the cheat sheet to working with me and understanding my thought processes and expectations.
 
-# My role
+## My role
 
 First and foremost, it's my job to make sure that you, as an engineer, are fully supported in your work. This can cover a number of areas, but the key ones are:
 
