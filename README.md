@@ -26,7 +26,8 @@ On the team level my role is to ensure we can provide the development expertise 
 
 **Feedback & praise.** This is not an area I'm great with, as I tend to mentally note things and then forget to follow up on them. I'm actively trying to work on this though, so I will try my best to give you praise for you work, and actionable feedback when necessary. I'll need your help though - if you feel you need feedback on or praise for something please nudge me and I'll give it!
 
-**1 on 1s.** We will have a 1 on 1 every week. The key thing to remember about this is that it's your time! I will have a default template to follow, but that's only meant as a placeholder. If you want to spend the whole 1 on 1 discussing one topic then we can. If you want to go longer, finish early, move it to another day that's also up to you. You own your 1 on 1!
+**1 on 1s.** We will have a 1 on 1 on a recurring basis - my current preference is towards one hour every
+two weeks as this allows for deeper discussions, but the frequency is completely negotiable. The key thing to remember about this is that it's your time! I will have a default template to follow, but that's only meant as a placeholder. If you want to spend the whole 1 on 1 discussing one topic then we can. If you want to go longer, finish early, move it to another day that's also up to you. You own your 1 on 1!
 
 **Career development.** One of my goals as your manager is to help you progress in your career. This includes identifying long-term goals and breaking that down into short-term goals that server both you and the company. I'll also try my best in helping you to identify where you want to go in the long-term, though I'll need a lot of help from you on that front!
 
