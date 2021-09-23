@@ -59,6 +59,17 @@ two weeks as this allows for deeper discussions, but the frequency is completely
 
 ## My work processes
 
+### Communication
+
+My preference is towards async communication that's as close to the context as possible. In general
+I prefer this order of communication:
+
+- Comments on Jira tickets/RFCs/Coda docs/Google docs
+- Comments on PRs (if outside the context of a code review, it's probably preferable to communicate via Jira)
+- Public Slack channels
+- Private Slack channels
+- Slack DM / email
+
 ### Calendars
 
 I keep my work calendar public, so you can check when I'm available and if my currently scheduled event is potentially interruptible. I like to time block work in my calendar for my own benefit, but these events are not set in stone, so I mark them as "free" so you can book me during that same time.
