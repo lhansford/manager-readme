@@ -54,8 +54,6 @@ On the team level my role is to ensure we can provide the development expertise 
 
 [Funnily enough I'm a textbook Australian according to this 😅](https://culturalatlas.sbs.com.au/australian-culture/australian-culture-communication#australian-culture-communication)
 
-**Doing work at weird hours 🌚.** I'm usually available 9-5, but you'll notice me committing code or sending messages in the evenings, on weekends, or perhaps even when I'm on vacation. I can't stress this enough - I don't expect you to be available or working around the clock! Coding is my go to activity when I'm feeling stressed or overwhelmed, hence why you'll see me doing this at unusual times. I try my best to make sure no one gets pinged outside of working hours, but if I ever assign a code review or send an email to you on a Saturday evening you can happily ignore it until Monday.
-
 ## My work processes
 
 ### Calendars
