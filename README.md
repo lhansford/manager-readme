@@ -61,7 +61,7 @@ two weeks as this allows for deeper discussions, but the frequency is completely
 
 ### Calendars
 
-I keep my work calendar public, so you can check when I'm available and if my currently scheduled event is potentially interruptible. I like to time block work in my calendar for my own benefit, but these events are not set in stone, so I set the color of those events to gray and mark them as "free" so you can book me during that same time.
+I keep my work calendar public, so you can check when I'm available and if my currently scheduled event is potentially interruptible. I like to time block work in my calendar for my own benefit, but these events are not set in stone, so I mark them as "free" so you can book me during that same time.
 
 ### Meetings
 
