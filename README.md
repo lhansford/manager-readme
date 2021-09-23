@@ -2,7 +2,9 @@
 
 ## Motivation for this document
 
-Consider this the cheat sheet to working with me and understanding my thought processes and expectations.
+Consider this the cheat sheet to working with me and understanding my thought processes and
+expectations. It will evolve as I evolve - I will try and [document my changes via commit messages](https://github.com/lhansford/manager-readme/commits/main)
+so you can better understand that evolution.
 
 ## My role
 
